@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-31",
+  "build": "node build-classroom.cjs",
+  "originalSourceUnchanged": true,
+  "all10BuildAssetsMatchSourceCheckout": true,
+  "files": [
+    {
+      "file": "board.html",
+      "bytes": 6257,
+      "sha256": "526e75c918c4bf96039e65e96441cd1f5839734c80e7d5b94c15f79ff7bf3072"
+    },
+    {
+      "file": "board.js",
+      "bytes": 4779,
+      "sha256": "772ae2ed27ee466f710f1d5f6527de6222a8d7200d76ac0a0c8da67bc4fbd3a6"
+    },
+    {
+      "file": "index.html",
+      "bytes": 3775,
+      "sha256": "ed77d62e8fe8bf7beb893c5dd5d8107b9290952dfcecc8b225e7c90635f88299"
+    },
+    {
+      "file": "lesson-chromeDino.gif",
+      "bytes": 714838,
+      "sha256": "5f2547a8190d0aa538a9c14aa8411123da7492da64e2295fc91589c22c4421b7"
+    },
+    {
+      "file": "lesson-cover.png",
+      "bytes": 209811,
+      "sha256": "bb3cdbfc57a7b79eb9ebbbc6bd2e7eda406da594b254dc16a9080eef5b12c2c2"
+    },
+    {
+      "file": "lesson-font.woff2",
+      "bytes": 1226508,
+      "sha256": "6abdb4df7f32d9b8f5224ccf35224b1a7f5b1aabea27c73ad8c63d88f31a9bb5"
+    },
+    {
+      "file": "lesson-practice.png",
+      "bytes": 960076,
+      "sha256": "14ae3fcdf44f0ce1e73e6aa8dc019f4a10ef548fa086df0a33f20a5aad9223ba"
+    },
+    {
+      "file": "lesson.html",
+      "bytes": 195156,
+      "sha256": "87c2b3b1528cfadae09d2d43d9a594fe383f83736c86846b7971f5674ac391b5"
+    },
+    {
+      "file": "lounge-portal.css",
+      "bytes": 6611,
+      "sha256": "e6942f9baf23ee985a27b4b8373299398754df2513e2d19e6310b4733545d2e9"
+    },
+    {
+      "file": "lounge-portal.js",
+      "bytes": 6510,
+      "sha256": "48789f5431ba8da056f201f4c651d1dc1e3754b978e311940f561ccd237fec7c"
+    }
+  ],
+  "credentialPatternsFound": [],
+  "sensitiveFilesFound": []
+}

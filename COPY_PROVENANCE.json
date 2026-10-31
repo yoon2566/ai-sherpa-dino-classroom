@@ -1,0 +1,303 @@
+{
+  "createdAt": "2026-10-31T06:18:35.995Z",
+  "sourceWorkspace": "20261012_모두의AI라운지",
+  "sourceDirectory": "25_PPT제작/PPT양식/HTML_템플릿",
+  "sourceGitHead": "386824b",
+  "scope": "Dino classroom 2 source snapshot; original shared checkout left unchanged",
+  "files": [
+    {
+      "source": "build-classroom.cjs",
+      "destination": "build-classroom.cjs",
+      "sha256": "e014d7c61aebae37b8808757606f184000f1efa36d6cad173a8dae5d5a92f2d2",
+      "bytes": 2192
+    },
+    {
+      "source": "build.cjs",
+      "destination": "build.cjs",
+      "sha256": "e159fa711c31fd733fbdcc439efdf6105b02b09bd0a1380d8defee8f10fd8798",
+      "bytes": 6836
+    },
+    {
+      "source": "build-game.cjs",
+      "destination": "build-game.cjs",
+      "sha256": "b2a3a583aa325ec7a308b2e7aecb92d6438d4e27110c311924916ebcc923b06a",
+      "bytes": 5069
+    },
+    {
+      "source": "template-shell.html",
+      "destination": "template-shell.html",
+      "sha256": "334ba9b93c731cd8295df56bb59cad87ac4a065d19f16f96857e8c1097a3dbc5",
+      "bytes": 24232
+    },
+    {
+      "source": "runner-lesson-content.cjs",
+      "destination": "runner-lesson-content.cjs",
+      "sha256": "df657c87c56eac06f5ec4af8ec84ae1e9858e61016cbd462a1bf967c28f9e7a5",
+      "bytes": 928
+    },
+    {
+      "source": "runner-lesson-refresh.js",
+      "destination": "runner-lesson-refresh.js",
+      "sha256": "2b9a8ea666c48e0e5ed2d03a4c0e4bec6fb2faf201f5d23ccb42f29f2ce2faac",
+      "bytes": 1243
+    },
+    {
+      "source": "enhancement-stages.cjs",
+      "destination": "enhancement-stages.cjs",
+      "sha256": "55d913ba77bd1f4c9ed7b86fec4dc811875753cd5b9ba5248b370273e6ef4ca1",
+      "bytes": 6640
+    },
+    {
+      "source": "error-questions.cjs",
+      "destination": "error-questions.cjs",
+      "sha256": "36333becce7aedf4e027a3bc739d98af18aa618660c3b0470c00b087596ba461",
+      "bytes": 6274
+    },
+    {
+      "source": "quiz-questions.cjs",
+      "destination": "quiz-questions.cjs",
+      "sha256": "4c009cb555daacfa40c5a2bb827cab9447b89fc9733122fe8e358e1b1420b3e5",
+      "bytes": 4679
+    },
+    {
+      "source": "error-activity.css",
+      "destination": "error-activity.css",
+      "sha256": "ee8319e55163369a363e413ce57f998d1d6d7c628ce358a8878e8d249a8897f8",
+      "bytes": 4978
+    },
+    {
+      "source": "error-activity.js",
+      "destination": "error-activity.js",
+      "sha256": "6025e69c8e7dbb2035c2e78d8bc1e78f31b6559a46b6f877c54cc7f3346ac3ea",
+      "bytes": 22075
+    },
+    {
+      "source": "quiz-activity.css",
+      "destination": "quiz-activity.css",
+      "sha256": "71699b8be7459d26aa29960a25de6f8ad4fdea3dbaae52790148b6a06074e7b2",
+      "bytes": 5664
+    },
+    {
+      "source": "quiz-activity.js",
+      "destination": "quiz-activity.js",
+      "sha256": "baccbd32c9ee4c7e55e8c2d0ac02447645119b85202f32a35df7cd6d8c92ad1a",
+      "bytes": 10698
+    },
+    {
+      "source": "sharing-activity.css",
+      "destination": "sharing-activity.css",
+      "sha256": "09a6c1152d53518d2a2917885b28b001d253c1daad1cf92fd942ad8ccb03d52e",
+      "bytes": 2393
+    },
+    {
+      "source": "sharing-activity.js",
+      "destination": "sharing-activity.js",
+      "sha256": "f8d9b0a32f152c4454f85ffcd6358476082c74d6b52f3d7e46405a4be0442648",
+      "bytes": 5591
+    },
+    {
+      "source": "game-adapter.js",
+      "destination": "game-adapter.js",
+      "sha256": "8dc5309a3a1bdc06b10775adffefaebfb5662ce35643d1f481b66c943291e4c6",
+      "bytes": 2321
+    },
+    {
+      "source": "game-generation.js",
+      "destination": "game-generation.js",
+      "sha256": "91ba6c14313cd6d6c8e027dba1a7f7587023e0e37d0719605596b36ded86aa20",
+      "bytes": 6378
+    },
+    {
+      "source": "prompt-conversion.js",
+      "destination": "prompt-conversion.js",
+      "sha256": "ebdec6b61a112459b1c2835addd3d9f8318db06f0b1750318876a092c06b178f",
+      "bytes": 1241
+    },
+    {
+      "source": "prompt-dialog.js",
+      "destination": "prompt-dialog.js",
+      "sha256": "e821339f2d62bdc6726bc3a3716232442d843a8a0379a6bc07882928ddac30f1",
+      "bytes": 4945
+    },
+    {
+      "source": "ai-gateway.mjs",
+      "destination": "ai-gateway.mjs",
+      "sha256": "91b5a612e31f9527d170021e32327e55044d3a64a99b02b7d4f7758b506a2959",
+      "bytes": 5597
+    },
+    {
+      "source": "prompt-gateway.mjs",
+      "destination": "prompt-gateway.mjs",
+      "sha256": "a62fce38210ffbdee71522d085011880ba868f540650ff6d495b646d80d2590d",
+      "bytes": 5720
+    },
+    {
+      "source": "board-api.mjs",
+      "destination": "board-api.mjs",
+      "sha256": "a7ca96bce55745e00e6002c282654862030f7e09efb57657838c84bf185a3566",
+      "bytes": 5703
+    },
+    {
+      "source": "board-schema.sql",
+      "destination": "board-schema.sql",
+      "sha256": "0a9e3a883c6b21096a4234bfd8f1e42214c1586c9d7ede6564e87ae0f6bb9e19",
+      "bytes": 286
+    },
+    {
+      "source": "board.html",
+      "destination": "board.html",
+      "sha256": "526e75c918c4bf96039e65e96441cd1f5839734c80e7d5b94c15f79ff7bf3072",
+      "bytes": 6257
+    },
+    {
+      "source": "board.js",
+      "destination": "board.js",
+      "sha256": "772ae2ed27ee466f710f1d5f6527de6222a8d7200d76ac0a0c8da67bc4fbd3a6",
+      "bytes": 4779
+    },
+    {
+      "source": "speech-input.js",
+      "destination": "speech-input.js",
+      "sha256": "aea72b144842922e9633790c9d9255ba4f255a381561204e303934607b47caec",
+      "bytes": 6010
+    },
+    {
+      "source": "classroom-client.js",
+      "destination": "classroom-client.js",
+      "sha256": "45b172bb1d18d22845c34d43ab65807669b92d9ab897e2366aa37b344b5f0478",
+      "bytes": 10143
+    },
+    {
+      "source": "classroom-cloud.mjs",
+      "destination": "classroom-cloud.mjs",
+      "sha256": "f4be199090a57a8a7d9f1e25773700b4c99b26c50c9f66e24b7f8beb26f49584",
+      "bytes": 10160
+    },
+    {
+      "source": "classroom-worker.mjs",
+      "destination": "classroom-worker.mjs",
+      "sha256": "7abee30fa7709b17fe7bf5e3db0e6aebc78c2e2cee9b68d2b3c0a30963e863b7",
+      "bytes": 4491
+    },
+    {
+      "source": "classroom-entry.mjs",
+      "destination": "classroom-entry.mjs",
+      "sha256": "208c2d48c437e6b747169e5536c6baf1e59d068e4f0f20f9a750475264b07624",
+      "bytes": 159
+    },
+    {
+      "source": "classroom-ai-rate.mjs",
+      "destination": "classroom-ai-rate.mjs",
+      "sha256": "d16d7bfae5b05b207a8393232a908bb38e341ea7d4bcc35d5dfdd52460cd7846",
+      "bytes": 691
+    },
+    {
+      "source": "classroom-events.mjs",
+      "destination": "classroom-events.mjs",
+      "sha256": "0443c88c40b1f604e4bca39e072b2e76960208ad04598f0fdd5e38f728b677f7",
+      "bytes": 2423
+    },
+    {
+      "source": "classroom-deck.mjs",
+      "destination": "classroom-deck.mjs",
+      "sha256": "2ccc76d9005b9d95e5440926ed176a54c81e978848f1f7a0f25e008b92319684",
+      "bytes": 991
+    },
+    {
+      "source": "classroom-schema.sql",
+      "destination": "classroom-schema.sql",
+      "sha256": "c386fc24f65b2c9d1b8cb7f54b2b5968662171adbc10227a4790b8842dcd6a24",
+      "bytes": 642
+    },
+    {
+      "source": "lounge-portal.html",
+      "destination": "lounge-portal.html",
+      "sha256": "ed77d62e8fe8bf7beb893c5dd5d8107b9290952dfcecc8b225e7c90635f88299",
+      "bytes": 3775
+    },
+    {
+      "source": "lounge-portal.css",
+      "destination": "lounge-portal.css",
+      "sha256": "e6942f9baf23ee985a27b4b8373299398754df2513e2d19e6310b4733545d2e9",
+      "bytes": 6611
+    },
+    {
+      "source": "lounge-portal.js",
+      "destination": "lounge-portal.js",
+      "sha256": "48789f5431ba8da056f201f4c651d1dc1e3754b978e311940f561ccd237fec7c",
+      "bytes": 6510
+    },
+    {
+      "source": "lesson-storage.js",
+      "destination": "lesson-storage.js",
+      "sha256": "143b4f537d913263dd35f4c5bc7a2305681696148778e1b0eeb24f199c8f2ce1",
+      "bytes": 461
+    },
+    {
+      "source": "classroom-lesson.css",
+      "destination": "classroom-lesson.css",
+      "sha256": "8be80457777686f0b1672211c78284d9f90d9c9a119c679e7df2af117a832e4f",
+      "bytes": 3119
+    },
+    {
+      "source": "game-provenance.json",
+      "destination": "game-provenance.json",
+      "sha256": "f92d897f7fce17b09f14bf43a4b20b5cb26f6c74b695466fcdce68f4d4d79634",
+      "bytes": 1244
+    },
+    {
+      "source": "게임_출처와라이선스.txt",
+      "destination": "게임_출처와라이선스.txt",
+      "sha256": "34c4363f51074f9a8e97144c1221d8ec5e3eabb5ee3ea8694aea4cd466cbd7ed",
+      "bytes": 1090
+    },
+    {
+      "source": "assets/NotoSansKR-VF.ttf",
+      "destination": "assets/NotoSansKR-VF.ttf",
+      "sha256": "018174e8cdd366aff67c8d366c7dc806a7babbe7f2819fc23b00d59f7b8353d0",
+      "bytes": 10415532
+    },
+    {
+      "source": "assets/Lounge-Korean.woff2",
+      "destination": "assets/Lounge-Korean.woff2",
+      "sha256": "6abdb4df7f32d9b8f5224ccf35224b1a7f5b1aabea27c73ad8c63d88f31a9bb5",
+      "bytes": 1226508
+    },
+    {
+      "source": "assets/chrome-dino-official.gif",
+      "destination": "assets/chrome-dino-official.gif",
+      "sha256": "5f2547a8190d0aa538a9c14aa8411123da7492da64e2295fc91589c22c4421b7",
+      "bytes": 714838
+    },
+    {
+      "source": "assets/cover-art.png",
+      "destination": "assets/cover-art.png",
+      "sha256": "bb3cdbfc57a7b79eb9ebbbc6bd2e7eda406da594b254dc16a9080eef5b12c2c2",
+      "bytes": 209811
+    },
+    {
+      "source": "assets/practice-example.png",
+      "destination": "assets/practice-example.png",
+      "sha256": "14ae3fcdf44f0ce1e73e6aa8dc019f4a10ef548fa086df0a33f20a5aad9223ba",
+      "bytes": 960076
+    },
+    {
+      "source": "assets/source-runner.html",
+      "destination": "assets/source-runner.html",
+      "sha256": "f454109416a13062d2b30e1f28b37402dbe163c3347c94afeddd3e859df6c067",
+      "bytes": 19978
+    },
+    {
+      "source": "assets/triceratops.webp",
+      "destination": "assets/triceratops.webp",
+      "sha256": "d9eb65df7c020a94184c30a39d68fa06c2f53ea37123324586f6271b7b7467b4",
+      "bytes": 14946
+    },
+    {
+      "source": "wrangler.classroom.jsonc",
+      "destination": "wrangler.jsonc",
+      "sha256": "9a6e653b8b8d97afc2ecdbcb4ab7e5cdc947b58b7c11b0c2b722f10ff71511a0",
+      "bytes": 1062
+    }
+  ]
+}

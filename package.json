@@ -1,0 +1,11 @@
+{
+  "name": "ai-sherpa-dino-classroom",
+  "version": "1.0.0",
+  "private": true,
+  "description": "공룡게임 2 — AI 셰르파 공룡 수업과 교실 포털",
+  "scripts": {
+    "build": "node build-classroom.cjs",
+    "dev": "wrangler dev --config wrangler.jsonc",
+    "deploy": "wrangler deploy --config wrangler.jsonc --keep-vars"
+  }
+}

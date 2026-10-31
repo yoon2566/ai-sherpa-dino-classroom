@@ -1,0 +1,2 @@
+# Preserve original source and deployed asset bytes, including CRLF.
+* -text whitespace=cr-at-eol

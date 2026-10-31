@@ -1,0 +1,16 @@
+공룡 게임 — 실행 코드와 자산 출처
+
+이 실행 파일은 승인된 독자게임_v2/runner.html의 별도 Canvas 구현을 사용합니다.
+보관된 원본: assets/source-runner.html
+원본 SHA-256: f454109416a13062d2b30e1f28b37402dbe163c3347c94afeddd3e859df6c067
+수업 조작 연결: game-adapter.js (lounge-dino 메시지 및 페이지 이동)
+캐릭터: 승인된 트리케라톱스 1번 디자인을 바탕으로 새로 생성한 8프레임 시트.
+이미지: assets/triceratops.webp / 704×94 / 실행 HTML에 내장.
+배경·장애물·숫자는 자체 Canvas 도형이며 효과음은 Web Audio 합성입니다.
+
+게임 수치와 충돌 좌표 검증에 참고한 프로젝트:
+https://github.com/wayou/t-rex-runner
+Commit: 5455bfa408ec6b707c7300ff194b7390733a766d
+참고 프로젝트 라이선스: BSD-3-Clause
+참고 원본의 실행 코드·스프라이트·이미지·음원·폰트는 이 실행 파일에 포함하지 않습니다.
+참고 프로젝트의 라이선스 표기는 독자 구현이나 생성 이미지의 별도 라이선스 부여가 아닙니다.

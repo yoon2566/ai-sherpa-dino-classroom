@@ -1,0 +1,26 @@
+{
+  "implementation": "Independent Canvas runner",
+  "source": "assets/source-runner.html",
+  "approvedPrototype": "50_저작권확인/독자게임_v2/runner.html",
+  "sourceSha256": "f454109416a13062d2b30e1f28b37402dbe163c3347c94afeddd3e859df6c067",
+  "adapter": "game-adapter.js",
+  "adapterSha256": "8dc5309a3a1bdc06b10775adffefaebfb5662ce35643d1f481b66c943291e4c6",
+  "reference": {
+    "url": "https://github.com/wayou/t-rex-runner",
+    "commit": "5455bfa408ec6b707c7300ff194b7390733a766d",
+    "license": "BSD-3-Clause",
+    "usage": "Numeric mechanics and collision reference only; upstream runtime and visual/audio assets are not bundled."
+  },
+  "artwork": {
+    "file": "assets/triceratops.webp",
+    "sha256": "d9eb65df7c020a94184c30a39d68fa06c2f53ea37123324586f6271b7b7467b4",
+    "bytes": 14946,
+    "width": 704,
+    "height": 94,
+    "frames": 8,
+    "source": "Approved triceratops design 1; newly generated animation atlas",
+    "embedded": true
+  },
+  "changes": "Embed the approved WebP and add the lounge-dino parent controls inside the copied runner closure. Approved physics, collision, rendering and input functions are unchanged.",
+  "outputSha256": "ce565e7410bff1399fb305021b517a492914bd0dfec586c60bdb1bf2e650b037"
+}
